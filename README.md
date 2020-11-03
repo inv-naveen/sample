@@ -10,4 +10,4 @@ a feature is to be added in the update (master)
 feature added in second update (feature)
 
 ##updation
-doen on secod update subfeature (subfeature)
+done on second update subfeature (subfeature)
